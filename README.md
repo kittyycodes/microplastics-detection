@@ -1,2 +1,2 @@
-# microplastics-detection
+# Microplastics Detection Project
 Current methods for detecting microplastics in marine environments face significant limitations in accuracy, efficiency, and scalability. Traditional techniques such as microscopy and spectroscopy are labor-intensive and time-consuming, while existing machine learning models struggle with issues related to data quality, overfitting, and generalization. To address these challenges, there is a need for a more effective approach that integrates advanced machine learning techniques, data augmentation, and novel data sources.
